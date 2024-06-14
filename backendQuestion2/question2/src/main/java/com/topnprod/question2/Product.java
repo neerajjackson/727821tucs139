@@ -1,6 +1,5 @@
 package com.topnprod.question2;
 
-// package com.example.topproducts.model;
 
 import java.math.BigDecimal;
 
